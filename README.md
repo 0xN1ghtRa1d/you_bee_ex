@@ -60,7 +60,7 @@ I wrote a small script to xor the exported values with tha path.
 
 ![Image](https://github.com/0xN1ghtRa1d/Cybertalents/blob/you_bee_ex/11.png)
 
-After runing the script we will found our flag.
+After runing the script we will find our flag.
 
 ![Image](https://github.com/0xN1ghtRa1d/Cybertalents/blob/you_bee_ex/12.png)
 
