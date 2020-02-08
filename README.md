@@ -22,7 +22,7 @@ So let's try passing 103 arguments to the pe file and see what's is the output t
 
 ![Image](https://github.com/0xN1ghtRa1d/Cybertalents/blob/you_bee_ex/3.png)
 
-So as we see same arguments but different results, after some debugging we will find that the program will crash in this instruction before entering the main function due to memory corruption from unpacking.
+So as we see same arguments in the packed and unpacked file but different results, after some debugging we will find that the program will crash in this instruction before entering the main function due to memory corruption from unpacking.
 
 ![Image](https://github.com/0xN1ghtRa1d/Cybertalents/blob/you_bee_ex/4.png)
 
