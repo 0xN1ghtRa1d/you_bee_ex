@@ -1,2 +1,10 @@
-# Cybertalents
-Hey all this 0xN1ghtRa1d team and this is our Write-ups for cybertalents challenges. 
+# Challenge name
+you_bee_ex
+# Category
+Malware Reverse Engineering
+# Level
+Hard
+# Points
+200
+# Description
+We thought that UPX can undo what it does, but we were wrong...
